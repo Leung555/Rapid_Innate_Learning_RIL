@@ -1,2 +1,2 @@
-# SOMAL
-Self Organized Morphological Adaptive Legged Locomotion
+# Rapid_Innate_Learning_RIL
+Rapid Innate Learning Mechanism (RIL)
