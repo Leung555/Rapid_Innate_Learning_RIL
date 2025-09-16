@@ -21,4 +21,4 @@ This repository contains the code and analysis for the Rapid Innate Learning (RI
 *   **Analysis**: The Jupyter notebooks in the `analysis/` directory can be used to analyze the data generated from the simulations.  These notebooks use `pandas`, `matplotlib`, and `seaborn` for data manipulation and visualization.
 
 ## Supplementary Materials
-The supplementary material of this project can be found in the [doc/supplementary_RIL.pdf](docs/supplementary_RIL.pdf).
+The supplementary material of this project can be found in the [doc/supplementary_RIL.pdf](docs/Supplementary_RIL.pdf).
